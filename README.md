@@ -1,0 +1,1 @@
+Weather App Project for learning purposes
